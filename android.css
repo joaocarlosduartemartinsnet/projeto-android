@@ -91,7 +91,7 @@ main{
 
 
 main h1{
-    color: rgb(58, 99, 57);
+    color: var(--color3);
     font-family: var(--fonte-android);
 }
 
