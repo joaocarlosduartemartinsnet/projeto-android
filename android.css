@@ -91,7 +91,7 @@ main{
 
 
 main h1{
-    color: var(--cor4);
+    color: blue;
     font-family: var(--fonte-android);
 }
 
